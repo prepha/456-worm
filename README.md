@@ -5,6 +5,7 @@ Preston Phan
 
 
 
+<h2> The following images are of the terminal output from running the worm file </h2>
 
 ![assignmen2-pc1](https://user-images.githubusercontent.com/43216789/118205502-52b77600-b415-11eb-92c7-faa88291c458.JPG)
 
