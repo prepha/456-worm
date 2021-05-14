@@ -1,6 +1,7 @@
 <h2> Info </h2>
 Preston Phan
 <p> No extra credit was done  </p>
+<p> Skeleton code provided by Professor Manabat </p>
 
 <h2>Instructions </h2>
 <p>Placed worm.py into /tmp directory  </p
@@ -12,6 +13,7 @@ Preston Phan
 <h2> The following images are of the terminal output from running the worm file </h2>
 
 <h2> Topology </h2>
+<h3> Lubuntu-2 was working earlier but suddenly unable to start when needed to take screenshot for documentation </h3>
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/43216789/118205558-78dd1600-b415-11eb-9417-4c086680e8e8.png)
 
