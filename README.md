@@ -23,5 +23,4 @@ Preston Phan
 ![assignment2-router](https://user-images.githubusercontent.com/43216789/118205542-6c58bd80-b415-11eb-9067-60d38090dcfe.JPG)
 
 
-<h2> Lubuntu-2 was running earlier but wasnt able to start up when I needed to screenshot the topology  </h2>
 ![Screenshot (48)](https://user-images.githubusercontent.com/43216789/118205558-78dd1600-b415-11eb-9417-4c086680e8e8.png)
