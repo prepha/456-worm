@@ -2,6 +2,10 @@
 Preston Phan
 <p> No extra credit was done  </p>
 
+<h2>Instructions </h2>
+<p>Placed worm.py into /tmp directory  </p
+<p> Executed the file by running /tmp/worm.py  </p>
+
 
 
 
@@ -20,7 +24,7 @@ Preston Phan
 ![assignment2-pc2](https://user-images.githubusercontent.com/43216789/118205533-65ca4600-b415-11eb-8833-78bfe47bbd75.JPG)
 
 <h2> Lubuntu-3 </h2>
-<h3> Unable for the worm to spread to PC3 was only able to spread to pc1 and pc2  </h3>
+<h3> Unable for the worm to spread to PC3 was only able to spread to Lubuntu-1 and Lubuntu-2  </h3>
 
 ![assignment2-pc3](https://user-images.githubusercontent.com/43216789/118205539-682ca000-b415-11eb-8fbb-5baad64c2caf.JPG)
 
